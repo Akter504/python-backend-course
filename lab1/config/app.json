@@ -1,0 +1,13 @@
+{
+  "config_version": "1",
+  "analyzers": [
+    {
+      "name": "length",
+      "options": {}
+    },
+    {
+      "name": "template",
+      "options": {}
+    }
+  ]
+}

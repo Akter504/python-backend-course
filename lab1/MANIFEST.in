@@ -1,0 +1,7 @@
+include requirements-dev.lock
+include AI_USAGE.md
+exclude docs/DEVELOPMENT.md
+exclude docs/GITHUB.md
+recursive-include data *.json *.jsonl
+recursive-include config *.json
+recursive-include tests *.py

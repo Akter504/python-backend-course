@@ -1,0 +1,10 @@
+[
+  {
+    "assignment_id": "assignment-01",
+    "allowed_template": "from typing import Iterable\n",
+    "requirements": [
+      "Наличие функции solve",
+      "Сумма квадратов неотрицательных значений"
+    ]
+  }
+]
